@@ -1,6 +1,9 @@
 Enmotion
 
 Enmotion is a Python-based tool for detecting emotions in text using Natural Language Processing (NLP). The tool utilizes the SentimentIntensityAnalyzer from the nltk library to detect the emotion in the given text. Enmotion is also bundled with an executable file that can be run on any Windows computer without requiring the installation of Python or any dependencies. The executable file was created using the auto-py-to-exe module in Python.
+
+
+
 ![enmotion](https://github.com/danpizzy/enmotion/assets/53155066/ec3df8d8-3f3e-4786-9393-b6fbf17c7f9a)
 
 Installation
