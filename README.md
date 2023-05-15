@@ -46,4 +46,4 @@ Contributions
 Contributions to Enmotion are welcome! If you find any bugs or have any suggestions for improvement, feel free to open an issue or submit a pull request.
 License
 
-Enmotion is licensed under the 
+Enmotion is licensed under the Apache license
